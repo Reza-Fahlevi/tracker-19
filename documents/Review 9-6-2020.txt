@@ -1,0 +1,29 @@
+logo di redesign lagi, kanjinya dipisiah/dikurungin
+
+bootstrap kalo bisa dipake
+
+input foto, yang ditampilin jangan nama gambarnya, tapi langsung fotonya/taro detail
+
+validasi file foto (https://stackoverflow.com/questions/12233711/file-mime-type-checking)
+
+penamaan foto otomatis by row/id
+
+validasi password di form edit (re-type password, validasi ditambahin lagi, trus kalo bisa ada format password {harus huruf besar kecil angka dll}), dan username dijadiin read only, gabisa diedit
+
+validasi hapus data, kalo data nya kepake di tabel lain, mainin status... kalo engga ya gausah
+
+wpf jangan sampe lupa(?) <ga kedengeran ini gan>
+
+maxlength buat nomor telepon (13)
+
+buat ID otomatis diatur biar bisa multiuser, kalo yang make app nya lebih dari satu saat bersamaan, ada kemungkinan ID nya bisa sama...
+bagusnya id nya pas di form gak dimunculin, trus id nya ke generate kalo button nya dipencet doang.
+(kalo mau lebih aman lagi, format nya ditambahin lagi)
+
+poin dikasih kondisi, kalo 0 gausah pake koma, dan hati2 saat penggunaan tipe data money
+
+golongan darah dikasih defaultnya kalo misal gatau
+
+jenis kelamin perhatiin size, trus kalo bisa 0 1 biar irit pemakaian
+
+input harga ada separator di form nya

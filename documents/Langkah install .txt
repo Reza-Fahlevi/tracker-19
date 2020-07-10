@@ -1,0 +1,11 @@
+1. Download terlebih dahulu node.js
+   (https://nodejs.org/en/download/)
+   Kemudian install
+
+2. Ekstrak 'tracker-19-dev.zip'
+
+3. Buka isi folder dari file yang sudah di ekstrak
+
+4. Buka terminal di direktori file yang sudah di ekstrak, lalu masukkan perintah 'npm i', tunggu sampai instalasi module selesai.
+
+5. Setelah instalasi module selesai, jalankan perintah 'npm run dev'. Apabila berhasil, buka browser lalu ketikan 'localhost:3000'
