@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "date-fns": "^2.14.0",
     "i": "^0.3.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "materialize-css": "^1.0.0-rc.2",
     "next": "9.4.4",
     "next-redux-wrapper": "^6.0.2",
